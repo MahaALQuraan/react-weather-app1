@@ -1,0 +1,46 @@
+
+.app {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+
+
+
+
+  
+  
+ 
+}
+
+.search-bar input {
+  padding: 10px;
+  margin-right: 10px;
+}
+
+.search-bar button {
+  padding:10px 20px;
+  border-radius: 30px;
+  color:white;
+  background-color:gray;
+}
+
+
+.error {
+  color: red;
+}
+.weather-card {
+  /* margin-top: 20px; */
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  text-align: center;
+  background-color: #f9f9f9;
+  width:50%;
+  margin: 20px auto 0;
+}
+
+.weather-card img.weather-icon {
+  width: 100px;
+  height: 100px;
+  margin-top: 10px;
+}
